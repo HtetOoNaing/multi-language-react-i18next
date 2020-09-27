@@ -5,5 +5,5 @@ This is 2019 testing project for SharPhway App v1 =>
 
 ### Used Technologies :
 
-- React Js
+- React HOOKS
 - i18next
